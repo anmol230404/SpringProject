@@ -1,5 +1,7 @@
-How to Run this SpringBoot project using Terminal
+# How to Run this Spring Boot Project using Terminal
 
-./gradlew bootrun
+```bash
+./gradlew bootRun
+```
 
-run this command and it will automatically run the project.
+Run this command and it will automatically start the project.
